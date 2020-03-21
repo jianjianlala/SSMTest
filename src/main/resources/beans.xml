@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bean id="userDao" class="cn.itcast.dao.impl.UserDaoImpl"></bean>
